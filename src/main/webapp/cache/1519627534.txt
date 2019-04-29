@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "6508 Hollywood Blvd, Los Angeles, CA 90028, USA",
+      "formatted_phone_number" : "(323) 465-9100",
+      "name" : "Calle Tacos",
+      "place_id" : "ChIJH7VTnDu_woARRWxHa_SEFAs",
+      "price_level" : 1,
+      "rating" : 4.3,
+      "website" : "http://www.calletacos.com/"
+   },
+   "status" : "OK"
+}

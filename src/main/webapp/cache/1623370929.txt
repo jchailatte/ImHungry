@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "9071 Santa Monica Blvd, West Hollywood, CA 90069, USA",
+      "formatted_phone_number" : "(310) 275-9444",
+      "name" : "Dan Tana's",
+      "place_id" : "ChIJreK-k6i-woARSyd335Nkcr0",
+      "price_level" : 3,
+      "rating" : 4.5,
+      "website" : "http://www.dantanasrestaurant.com/"
+   },
+   "status" : "OK"
+}

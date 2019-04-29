@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1375 W Adams Blvd, Los Angeles, CA 90007, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2.1 km",
+                  "value" : 2085
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 474
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

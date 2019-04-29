@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "4375 Admiralty Way, Marina Del Rey, CA 90292, USA",
+      "formatted_phone_number" : "(310) 574-4333",
+      "name" : "Cast & Plow",
+      "place_id" : "ChIJs7DnN4W6woAR9ITUDkFFah4",
+      "price_level" : 3,
+      "rating" : 4.3,
+      "website" : "http://www.ritzcarlton.com/en/hotels/california/marina-del-rey/dining/cast-and-plow?scid=bb1a189a-fec3-4d19-a255-54ba596febe2"
+   },
+   "status" : "OK"
+}

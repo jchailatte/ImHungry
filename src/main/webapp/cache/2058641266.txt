@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "4375 Admiralty Way, Marina Del Rey, CA 90292, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "26.8 km",
+                  "value" : 26757
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1759
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

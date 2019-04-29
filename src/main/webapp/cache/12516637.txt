@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "11740 San Vicente Blvd, Los Angeles, CA 90049, USA",
+      "formatted_phone_number" : "(424) 248-3789",
+      "name" : "Burger Lounge",
+      "place_id" : "ChIJU34InqC8woAR5LqCVc_KFmI",
+      "price_level" : 2,
+      "rating" : 4.4,
+      "website" : "http://www.burgerlounge.com/locations/location-brentwood"
+   },
+   "status" : "OK"
+}

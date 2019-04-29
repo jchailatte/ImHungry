@@ -1,0 +1,31 @@
+Scrum 4
+Date: 4/22/19
+Time: 11:30 am
+Location: SGM 101
+Participants: Harrison Weinerman, Samuel Rosas-Meza, Jonathan Chai, Peter Yang, Justin Lam
+
+Stand Up
+Harrison Weinerman
+I didn’t make progress on the API credit/mock refactor.
+I got sick and didn’t get to continue working on what I expected to.
+I will continue working on the refactor to resolve the saving issue so we can cache network responses.’
+
+Samuel Rosas-Meza
+I worked on simple design best practices based on refactors by Justin and Harrison.
+There are no obstacles.
+I will continue to assist in the development of tests and any backend changes and keep document updated.
+
+Jonathan Chai
+I did nothing.
+There are no obstacles.
+I will continue to update and refactor existing tests to have them cover more cases.
+
+Peter Yang
+I did code reviews of all existing pull requests so that they can be merged into master for the next stand up.
+Some of the refactors had some breaking changes so some of the pull requests had to be sent back for changes.
+I will finish all the front end integration for the features on my Asana tasks regarding list reordering and others.
+
+Justin Lam
+I researched different ways to merge similar grocery list items.
+There are no obstacles at the moment.
+I will continue implementing/testing the merging of similar individual grocery list items.

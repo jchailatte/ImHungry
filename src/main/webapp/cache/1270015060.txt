@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "4311, 8384 W 3rd St, Los Angeles, CA 90048, USA",
+      "formatted_phone_number" : "(323) 579-1600",
+      "name" : "Cleo",
+      "place_id" : "ChIJzxEitku5woARgDYWSCf5fro",
+      "price_level" : 3,
+      "rating" : 4.5,
+      "website" : "https://www.sbe.com/restaurants/locations/cleo-third-street/?utm_source=Google%20My%20Business&utm_medium=Website%20Button&utm_campaign=Los%20Angeles"
+   },
+   "status" : "OK"
+}

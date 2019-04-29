@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "17719 Vanowen St, Reseda, CA 91335, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "39.5 km",
+                  "value" : 39527
+               },
+               "duration" : {
+                  "text" : "37 mins",
+                  "value" : 2232
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

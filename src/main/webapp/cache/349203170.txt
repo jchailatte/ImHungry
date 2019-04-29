@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "4840 Lankershim Blvd, North Hollywood, CA 91601, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "23.7 km",
+                  "value" : 23719
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1814
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

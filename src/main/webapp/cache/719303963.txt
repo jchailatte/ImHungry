@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "11777 San Vicente Blvd, Los Angeles, CA 90049, USA",
+      "formatted_phone_number" : "(310) 237-6174",
+      "name" : "Katsuya Brentwood",
+      "place_id" : "ChIJf-AasaC8woARt359qhgvQm8",
+      "price_level" : 3,
+      "rating" : 4.3,
+      "website" : "http://www.sbe.com/restaurants/locations/katsuya-brentwood/?utm_source=Google%20My%20Business&utm_medium=Website%20Button&utm_campaign=Los%20Angeles"
+   },
+   "status" : "OK"
+}

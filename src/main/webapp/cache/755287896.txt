@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "16244 Whittier Blvd, Whittier, CA 90603, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "44.3 km",
+                  "value" : 44306
+               },
+               "duration" : {
+                  "text" : "45 mins",
+                  "value" : 2688
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

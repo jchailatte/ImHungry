@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1101 Aviation Blvd, Hermosa Beach, CA 90254, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "28.6 km",
+                  "value" : 28598
+               },
+               "duration" : {
+                  "text" : "34 mins",
+                  "value" : 2029
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

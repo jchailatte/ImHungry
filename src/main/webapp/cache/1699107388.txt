@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "6000 Pacific Blvd, Huntington Park, CA 90255, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "13.0 km",
+                  "value" : 13044
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1572
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

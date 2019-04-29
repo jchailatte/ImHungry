@@ -1,0 +1,24 @@
+Jonathan Chai
+I configured the front-end build configuration and modernized the search page UI with Peter.
+Currently, the build is only running on Peter’s machine so it is difficult for me to check the work done.
+I will begin modernizing the UI of the restaurant and recipe pages and work with Peter to generate proper links between pages and integration with the backend.
+
+Justin Lam
+Since the last meeting, I was able to set up a mock database in an xml file for testing purposes.
+There are no current obstacles.
+I plan to continue writing DBUnit test cases to achieve 100% code coverage on Java code that interacts with the MySQL database.
+
+Samuel Rosas-Meza
+Justin and I configured a mock database and were able to connect to the xml to initiate testing. Harrison and I started work on Google API changes
+Tests are yet to be made for mock database and Harrison and I had trouble finishing test cases for the Google API change with radius.
+Justin and I will continue writing tests for 100% code coverage of database, and Harrison and I will fix the Google changes.
+
+Harrison Weinerman
+I started to implement the change to Google API to take in distance parameter with Sam.
+Sam and I ran into issues getting tests to run for the radius control.
+We will continue to iron out the issues we had setting search radius for restaurant results.
+
+Peter Yang
+I configured front end build configuration and modernized the search page, in conformance with the existing cucumber tests.
+The build process that was currently set up is very slow and an alternative to speed it up would improve productivity and help meet the goal faster.
+I will begin modernizing the results page and ensure they link out to the legacy recipe page, restaurant page, and list management page.

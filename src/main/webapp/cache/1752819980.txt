@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "18349 Pioneer Blvd, Artesia, CA 90701, USA",
+      "formatted_phone_number" : "(562) 924-4567",
+      "name" : "Nanking Indo Chinese",
+      "place_id" : "ChIJzUdTP6ct3YARCWs_JTnO-ic",
+      "price_level" : 2,
+      "rating" : 3.9
+   },
+   "status" : "OK"
+}

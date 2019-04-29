@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1250 E Imperial Hwy, Brea, CA 92821, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "57.9 km",
+                  "value" : 57856
+               },
+               "duration" : {
+                  "text" : "46 mins",
+                  "value" : 2782
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

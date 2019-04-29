@@ -1,0 +1,31 @@
+Scrum 2
+Date: Saturday, 4/6/19
+Time: 8:30pm
+Location: JFF 301
+Participants: Harrison Weinerman, Samuel Rosas-Meza, Jonathan Chai, Peter Yang, Justin Lam
+
+Stand Up
+Harrison Weinerman
+I worked with Sam on the updated data persistence cucumber tests. It works locally but fails on remote.
+We need to figure out why it is failing on CI but not locally and fix this so it passes and we can merge--it is unclear at this point from the error log.
+I will work with Sam on continuing to resolve the cucumber test so it passes on CI. I will also work on changes to improve radius reliability and associated tests, too.
+
+Samuel Rosas-Meza
+Worked with Harrison on Cucumber tests of data persistences, committed but fails on CI. Also worked with Justin to clean database for JUnit ListManagement tests.
+Passing CI is a challenge, especially with free credits being used quickly.
+I will work again with Harrison to pass cucumber test cases in CI and on changes to radius handling.
+
+Jonathan Chai
+I pair programmed with Peter to set up the Travis build.
+We have a limited number of Google Credit which is about to run out which could incur unforseen costs.
+I will work with Peter to finish modifying the UI based on feedback received and implement the “Recent Searches” requirement.
+
+Peter Yang
+I worked with Jonathan to set up the Travis build. It was rather difficult since we have a multi step set up including building JavaScript files and requiring non-headless mode for the chrome driver.
+It took a while to figure out Travis but we figured it out in the end; however, each test case consumes a large amount of Google Credits of which we have a limited about so we will look to minimize the usage so Jonathan’s credit card does not get charged.
+Before the next stand up I plan to address the items assigned to me from the retrospective as well as beginning work on the User account system if time permits.
+
+Justin Lam
+I wrote functions to clean up the database before every ListManagement JUnit test and updated the sql script for new tables in the database.
+We have a limited number of Google Credit which is about to run out which could incur unforseen costs.
+I will write functions/tests for search results being saved in the database.

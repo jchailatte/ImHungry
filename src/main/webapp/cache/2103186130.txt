@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "2901 Ocean Park Blvd #102, Santa Monica, CA 90405, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "19.3 km",
+                  "value" : 19318
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1408
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

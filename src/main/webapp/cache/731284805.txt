@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "20 Pointe Dr, Brea, CA 92821, USA",
+      "formatted_phone_number" : "(714) 255-5600",
+      "name" : "Cedar Creek Inn",
+      "place_id" : "ChIJ8yDJE-LU3IARKKLWO54ATPY",
+      "price_level" : 2,
+      "rating" : 4.4,
+      "website" : "http://cedarcreekbrea.com/"
+   },
+   "status" : "OK"
+}

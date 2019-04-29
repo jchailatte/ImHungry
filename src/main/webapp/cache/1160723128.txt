@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "11538 W Pico Blvd, Los Angeles, CA 90064, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "18.4 km",
+                  "value" : 18421
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1348
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

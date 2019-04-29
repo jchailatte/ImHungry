@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "7631 Edinger Ave #1508, Huntington Beach, CA 92647, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "54.1 km",
+                  "value" : 54097
+               },
+               "duration" : {
+                  "text" : "44 mins",
+                  "value" : 2625
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

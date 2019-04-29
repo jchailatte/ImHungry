@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "18420 Brookhurst St, Fountain Valley, CA 92708, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "59.1 km",
+                  "value" : 59108
+               },
+               "duration" : {
+                  "text" : "46 mins",
+                  "value" : 2784
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

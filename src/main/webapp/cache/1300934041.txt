@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "8767 Firestone Blvd, Downey, CA 90241, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "25.0 km",
+                  "value" : 24975
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1744
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

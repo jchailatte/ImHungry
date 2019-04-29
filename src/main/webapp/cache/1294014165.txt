@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "17719 Vanowen St, Reseda, CA 91335, USA",
+      "formatted_phone_number" : "(818) 343-2665",
+      "name" : "Golden City Chinese Cuisine",
+      "place_id" : "ChIJT5cCxY-ZwoARcatqmA-DZaU",
+      "price_level" : 1,
+      "rating" : 4.5,
+      "website" : "https://goldencitychinesela.com/21755"
+   },
+   "status" : "OK"
+}

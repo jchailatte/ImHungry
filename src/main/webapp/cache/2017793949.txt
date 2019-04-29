@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "2582 E Colorado Blvd, Pasadena, CA 91107, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "32.0 km",
+                  "value" : 32043
+               },
+               "duration" : {
+                  "text" : "33 mins",
+                  "value" : 1994
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

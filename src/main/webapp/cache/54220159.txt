@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "20 Pointe Dr, Brea, CA 92821, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "56.3 km",
+                  "value" : 56290
+               },
+               "duration" : {
+                  "text" : "46 mins",
+                  "value" : 2755
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

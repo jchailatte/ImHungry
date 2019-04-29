@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "4200 Imperial Hwy, Inglewood, CA 90304, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "19.6 km",
+                  "value" : 19612
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1412
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

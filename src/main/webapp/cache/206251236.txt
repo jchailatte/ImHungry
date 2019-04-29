@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "3801 Inglewood Ave, Redondo Beach, CA 90278, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "25.5 km",
+                  "value" : 25530
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1665
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

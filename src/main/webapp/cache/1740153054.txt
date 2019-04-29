@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "6508 Hollywood Blvd, Los Angeles, CA 90028, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "17.5 km",
+                  "value" : 17486
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1562
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

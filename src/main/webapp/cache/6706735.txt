@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "12102 Long Beach Blvd, Lynwood, CA 90262, USA",
+      "formatted_phone_number" : "(310) 884-9984",
+      "name" : "King Taco # 24",
+      "place_id" : "ChIJJdEw1IbLwoAR3fMn7bQddJo",
+      "price_level" : 1,
+      "rating" : 4.1,
+      "website" : "http://www.kingtaco.com/"
+   },
+   "status" : "OK"
+}

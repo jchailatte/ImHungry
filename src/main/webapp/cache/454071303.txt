@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "728 S Olive St, Los Angeles, CA 90014, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.6 km",
+                  "value" : 6619
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1017
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

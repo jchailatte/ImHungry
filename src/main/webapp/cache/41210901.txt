@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "9328 Artesia Blvd, Bellflower, CA 90706, USA",
+      "formatted_phone_number" : "(562) 867-2857",
+      "name" : "Caza Tacos Restaurant",
+      "place_id" : "ChIJ0TQiU78y3YARvsipVTZwxTk",
+      "price_level" : 1,
+      "rating" : 4.5
+   },
+   "status" : "OK"
+}

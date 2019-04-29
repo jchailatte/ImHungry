@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "641 N Highland Ave, Los Angeles, CA 90036, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "12.3 km",
+                  "value" : 12340
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1674
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

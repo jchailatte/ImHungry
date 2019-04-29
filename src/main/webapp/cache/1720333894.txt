@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "4840 Lankershim Blvd, North Hollywood, CA 91601, USA",
+      "formatted_phone_number" : "(818) 985-0967",
+      "name" : "Hot wok Chinese food",
+      "place_id" : "ChIJ4_zY4B--woARl1JEYZB50SY",
+      "price_level" : 1,
+      "rating" : 4.5
+   },
+   "status" : "OK"
+}

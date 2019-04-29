@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "5339 E 2nd St, Long Beach, CA 90803, USA",
+      "formatted_phone_number" : "(562) 439-0261",
+      "name" : "Domenico's Belmont Shore",
+      "place_id" : "ChIJW5roGTcw3YARpKqO0P9IyTA",
+      "price_level" : 2,
+      "rating" : 4.6,
+      "website" : "http://www.domenicosrestaurant.com/"
+   },
+   "status" : "OK"
+}

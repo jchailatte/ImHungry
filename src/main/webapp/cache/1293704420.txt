@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "600 N Sepulveda Blvd, El Segundo, CA 90245, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "24.4 km",
+                  "value" : 24376
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1661
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

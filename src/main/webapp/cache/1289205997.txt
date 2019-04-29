@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "1600 N Alvarado St, Los Angeles, CA 90026, USA",
+      "formatted_phone_number" : "(213) 484-0340",
+      "name" : "Mayas' Tacos Restaurant",
+      "place_id" : "ChIJU7GTvhjHwoAR3FCNcf6gDSk",
+      "price_level" : 1,
+      "rating" : 4.2
+   },
+   "status" : "OK"
+}

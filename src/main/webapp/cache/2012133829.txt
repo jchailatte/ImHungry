@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "7631 Edinger Ave #1508, Huntington Beach, CA 92647, USA",
+      "formatted_phone_number" : "(714) 894-2792",
+      "name" : "solita Tacos & Margaritas Huntington Beach",
+      "place_id" : "ChIJ15pwIWgm3YARPMCEG6BKAoE",
+      "price_level" : 2,
+      "rating" : 4.3,
+      "website" : "http://www.solitatacos.com/"
+   },
+   "status" : "OK"
+}

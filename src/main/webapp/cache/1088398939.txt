@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "9635 Reseda Blvd, Northridge, CA 91324, USA",
+      "formatted_phone_number" : "(818) 886-6928",
+      "name" : "Chi's Chinese Cuisine",
+      "place_id" : "ChIJOaBTzgObwoARoY7mbRF-gFc",
+      "price_level" : 2,
+      "rating" : 4.5,
+      "website" : "http://www.chischinese.net/"
+   },
+   "status" : "OK"
+}

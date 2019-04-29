@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "5052 N Eagle Rock Blvd, Los Angeles, CA 90041, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "18.9 km",
+                  "value" : 18919
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1665
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

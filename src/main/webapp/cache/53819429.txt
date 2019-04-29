@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "17504 S Avalon Blvd, Carson, CA 90746, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "21.0 km",
+                  "value" : 21031
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1466
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "835 W Jefferson Blvd #1735, Los Angeles, CA 90089, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1235
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 422
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

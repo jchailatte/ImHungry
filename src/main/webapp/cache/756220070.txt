@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "2134 Sunset Blvd a, Los Angeles, CA 90026, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.1 km",
+                  "value" : 9060
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1243
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

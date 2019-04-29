@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "22950 Lyons Ave, Newhall, CA 91321, USA",
+      "formatted_phone_number" : "(661) 254-2585",
+      "name" : "Tacos Burritos El Pato",
+      "place_id" : "ChIJreU6Q4qGwoARzrwaQuubou0",
+      "price_level" : 1,
+      "rating" : 4.3
+   },
+   "status" : "OK"
+}

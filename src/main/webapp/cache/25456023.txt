@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1210 N Atlantic Blvd, Alhambra, CA 91801, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "23.4 km",
+                  "value" : 23355
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1811
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "3640 Cahuenga Blvd, Los Angeles, CA 90068, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "21.0 km",
+                  "value" : 21046
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1640
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

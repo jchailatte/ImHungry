@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "451 Manhattan Beach Blvd D, Manhattan Beach, CA 90266, USA",
+      "formatted_phone_number" : "(310) 545-7373",
+      "name" : "Nick's Manhattan Beach",
+      "place_id" : "ChIJp97mW-yzwoARCNwoqvmuAL0",
+      "price_level" : 2,
+      "rating" : 4.6,
+      "website" : "http://nicksrestaurants.com/nicks-manhattan-beach/"
+   },
+   "status" : "OK"
+}

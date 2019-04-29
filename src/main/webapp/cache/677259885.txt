@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "8665 Washington Blvd, Culver City, CA 90232, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "11.2 km",
+                  "value" : 11171
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1113
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

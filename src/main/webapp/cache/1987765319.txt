@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "5316 1, 2, E 2nd St, Long Beach, CA 90803, USA",
+      "formatted_phone_number" : "(562) 434-8646",
+      "name" : "Taco Surf Long Beach",
+      "place_id" : "ChIJzWSPBjcw3YAR8HLVb6tYf5E",
+      "price_level" : 2,
+      "rating" : 4.3,
+      "website" : "http://www.tacosurf-lb.com/"
+   },
+   "status" : "OK"
+}

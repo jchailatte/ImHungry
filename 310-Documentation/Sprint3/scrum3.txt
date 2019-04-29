@@ -1,0 +1,31 @@
+Scrum 3
+Date: Sunday, 4/21/19
+Time: 10:45pm
+Location: JFF 319
+Participants: Harrison Weinerman, Samuel Rosas-Meza, Jonathan Chai, Peter Yang, Justin Lam
+
+Stand Up
+Harrison Weinerman
+I started to work on refactoring NetworkReader to cache API responses to not use as many credits with Travis with Justin.
+Right now the refactor is commented out and not working yet since the files we are trying to cache and save will not save correctly. I think something is wrong with relative/absolute paths.
+I will continue work on this mock for Restaurant/Recipe data to use less API credits.
+
+Samuel Rosas-Meza
+I verified coverage for junit tests for persistence across features and kept documentation up to date with sessions, scrums, and refactoring.
+There are no obstacles.
+I will continue to keep the report document up to date and assist with the backend updates or additions of tests.
+
+Jonathan Chai
+I completed the function for allowing the user to search after clicking on a search history item.
+There are no obstacles.
+I will update and refactor existing tests to have them cover more cases.
+
+Peter Yang
+While working with Justin to integrate some of the list ordering functionality, we also refactored some of the GroceryList and ListManagement classes out into smaller managable chunks.
+There is some difficulty merging the grocery list items since it requires “interpreting” the text of the ingredients, but we may be able to use a spoonacular API to assist with that.
+I will finish the integration of list management in line with the existing backend changes.
+
+Justin Lam
+I researched different ways to merge similar grocery list items and refactored the GroceryList class to be separated from the very large ListManagement class and worked with Harrison on the mock.
+It’s been difficult to implement the merging of grocery list items in the Grocery list.
+I will implement the merging of similar individual grocery list items.

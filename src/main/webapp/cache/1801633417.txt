@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "4081 Whittier Blvd, Los Angeles, CA 90023, USA",
+      "formatted_phone_number" : "(323) 268-9532",
+      "name" : "Tacos Virginia",
+      "place_id" : "ChIJ-8zrMkDPwoARZWiP9BvG-FE",
+      "rating" : 4.4,
+      "website" : "http://www.tacosvirginia.club/?utm_source=google&utm_medium=website&utm_campaign=Tacos%20Virginia&utm_term=5c6edb79699db800012c18ae"
+   },
+   "status" : "OK"
+}

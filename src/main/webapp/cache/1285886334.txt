@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "406 E First St, Long Beach, CA 90802, USA",
+      "formatted_phone_number" : "(562) 590-3485",
+      "name" : "Wa Wa Restaurant",
+      "place_id" : "ChIJXX9fETwx3YARe-1inqEUTD0",
+      "price_level" : 1,
+      "rating" : 4.1
+   },
+   "status" : "OK"
+}

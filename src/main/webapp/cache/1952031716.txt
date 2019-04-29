@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "4749 Coldwater Canyon Ave, Studio City, CA 91604, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "26.9 km",
+                  "value" : 26893
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1780
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

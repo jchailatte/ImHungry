@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "3455 Overland Ave, Los Angeles, CA 90034, USA",
+      "formatted_phone_number" : "(310) 836-6252",
+      "name" : "n/naka",
+      "place_id" : "ChIJb7GeyDS6woAROVvLEUiLZEk",
+      "price_level" : 4,
+      "rating" : 4.7,
+      "website" : "http://www.n-naka.com/"
+   },
+   "status" : "OK"
+}

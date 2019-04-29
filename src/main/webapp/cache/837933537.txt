@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "8730 Woodman Ave, Arleta, CA 91331, USA",
+      "formatted_phone_number" : "(818) 891-3836",
+      "name" : "Tacos Vallarta",
+      "place_id" : "ChIJySp47iuRwoARtSoL7-jMkH8",
+      "rating" : 4.3,
+      "website" : "http://www.tacosvallarta.com/"
+   },
+   "status" : "OK"
+}

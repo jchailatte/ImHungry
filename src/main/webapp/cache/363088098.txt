@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "115-117 E Broadway, Glendale, CA 91205, USA",
+      "formatted_phone_number" : "(818) 409-0172",
+      "name" : "King Taco # 29",
+      "place_id" : "ChIJ4R1p7f_AwoARu84jar5Y12w",
+      "price_level" : 1,
+      "rating" : 4.1,
+      "website" : "http://www.kingtaco.com/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "11740 San Vicente Blvd, Los Angeles, CA 90049, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "21.7 km",
+                  "value" : 21702
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1687
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "3020 Los Feliz Blvd, Los Angeles, CA 90039, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "16.9 km",
+                  "value" : 16916
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1419
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

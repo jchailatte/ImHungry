@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "8618 Sunset Blvd, West Hollywood, CA 90069, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "17.3 km",
+                  "value" : 17270
+               },
+               "duration" : {
+                  "text" : "34 mins",
+                  "value" : 2014
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

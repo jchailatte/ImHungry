@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1048 South La Brea Ave, Los Angeles, CA 90019, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.4 km",
+                  "value" : 10427
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1191
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

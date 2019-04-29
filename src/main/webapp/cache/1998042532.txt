@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "4444 Van Nuys Blvd, Sherman Oaks, CA 91403, USA",
+      "formatted_phone_number" : "(800) 786-1000",
+      "name" : "In-N-Out Burger",
+      "place_id" : "ChIJKwCdWzInTIYRA1pZzW_ykaI",
+      "price_level" : 1,
+      "rating" : 4.6,
+      "website" : "http://locations.in-n-out.com/85"
+   },
+   "status" : "OK"
+}

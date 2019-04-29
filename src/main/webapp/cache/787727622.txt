@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "2131 E Broadway, Long Beach, CA 90803, USA",
+      "formatted_phone_number" : "(562) 439-0309",
+      "name" : "Chen's",
+      "place_id" : "ChIJp0os1AUx3YARsyD5HXksfL8",
+      "price_level" : 2,
+      "rating" : 4.1,
+      "website" : "http://www.chenschineseca.com/"
+   },
+   "status" : "OK"
+}

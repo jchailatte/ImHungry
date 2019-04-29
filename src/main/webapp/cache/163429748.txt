@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "3662 W 3rd St, Los Angeles, CA 90020, USA",
+      "formatted_phone_number" : "(213) 381-7356",
+      "name" : "Marielas Taco Restaurant",
+      "place_id" : "ChIJK4ETuGPHwoARjiaPUMyVqP0",
+      "price_level" : 1,
+      "rating" : 4
+   },
+   "status" : "OK"
+}

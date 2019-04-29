@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "6060 N Figueroa St, Highland Park, CA 90042, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "16.3 km",
+                  "value" : 16337
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1451
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

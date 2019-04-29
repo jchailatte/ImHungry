@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "702 Americana Way, Glendale, CA 91210, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "20.8 km",
+                  "value" : 20826
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1812
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

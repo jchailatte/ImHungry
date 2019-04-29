@@ -1,0 +1,31 @@
+Scrum 5
+Date: Friday, 4/12/19
+Time: 2:00 pm
+Location: JFF 421
+Participants: Harrison Weinerman, Samuel Rosas-Meza, Jonathan Chai, Peter Yang, Justin Lam
+
+Stand Up
+Harrison Weinerman
+I fixed and merged the PR with radius improvements/tests and then worked with Justin on improved ListManagement test cases.
+There are no obstacles.
+I will work on pagination of the Restaurant class.
+
+Samuel Rosas-Meza
+I worked on documenting programming session, simple design explanations and diagrams to justify simplicity of feature implementations.
+There are no major obstacles.
+I will finish the simplicity explanation, verify all commit and travis links, and work on refactoring details.
+
+Jonathan Chai
+I finished the pagination of the front-end and worked with Peter on the implementation of the registration and login system.
+I will be attending HackSC which will probably prevent me from working over the weekend.
+I will finish integrating the pagination back-end with the frontend and complete cucumber tests.
+
+Peter Yang
+I finished the backend implementation of the User registration / login system and plugged in persistent data to be associated with the users. Additionally, I worked on various refactoring.
+The ListManagement module was not thoroughly tested which led to some issues regarding the implementation of saving lists to specific users.
+Though I will be attending HackSC I will make an attempt to work on the grocery list and reordering saved lists provided the prerequisite of the backend working for these components are completed by then.
+
+Justin Lam
+I wrote/fixed the ListManagement test cases and they all run properly now. I also wrote functions for managing grocery lists.
+There are no major obstacles. However, all branches are not merged and it’s difficult to check functionality overall.
+I will write test cases for grocery lists. I will continue to test/code an implementation that allows any of the three predetermined lists to be reordered.

@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "5779 Wilshire Boulevard Store #32020, Los Angeles, CA 90036, USA",
+      "formatted_phone_number" : "(323) 932-8900",
+      "name" : "The Counter",
+      "place_id" : "ChIJvRu4RCK5woARMgajxZ5bPe8",
+      "price_level" : 2,
+      "rating" : 4.1,
+      "website" : "http://www.thecounter.com/"
+   },
+   "status" : "OK"
+}

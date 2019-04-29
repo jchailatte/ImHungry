@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "2431 W Washington Blvd, Los Angeles, CA 90018, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.1 km",
+                  "value" : 5083
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 831
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

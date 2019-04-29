@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "4255 W 3rd St, Los Angeles, CA 90020, USA",
+      "formatted_phone_number" : "(213) 739-2747",
+      "name" : "Zzamong",
+      "place_id" : "ChIJYXSKE5m4woARXRHhC1kUb-8",
+      "price_level" : 1,
+      "rating" : 4.2,
+      "website" : "http://www.zzamongrestaurant.com/"
+   },
+   "status" : "OK"
+}

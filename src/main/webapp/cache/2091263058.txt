@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "550 Deep Valley Dr #151, Rolling Hills Estates, CA 90274, USA",
+      "formatted_phone_number" : "(310) 544-8000",
+      "name" : "Good Stuff",
+      "place_id" : "ChIJBV7NWpRL3YARqB6CNP-KPWg",
+      "price_level" : 2,
+      "rating" : 4.5,
+      "website" : "http://www.eatgoodstuff.com/"
+   },
+   "status" : "OK"
+}

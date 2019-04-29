@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "9070 Whittier Blvd, Pico Rivera, CA 90660, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "28.5 km",
+                  "value" : 28490
+               },
+               "duration" : {
+                  "text" : "31 mins",
+                  "value" : 1849
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

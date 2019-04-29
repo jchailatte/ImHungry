@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "541 S Spring St #101, Los Angeles, CA 90013, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.2 km",
+                  "value" : 7249
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1077
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

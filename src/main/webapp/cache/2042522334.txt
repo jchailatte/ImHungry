@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "2901 Ocean Park Blvd #102, Santa Monica, CA 90405, USA",
+      "formatted_phone_number" : "(310) 399-8383",
+      "name" : "The Counter",
+      "place_id" : "ChIJe6sTfBy7woARt2YFF5C_fmk",
+      "price_level" : 2,
+      "rating" : 4.3,
+      "website" : "http://www.thecounter.com/"
+   },
+   "status" : "OK"
+}

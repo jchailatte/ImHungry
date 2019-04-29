@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "312 N San Fernando Blvd, Burbank, CA 91502, USA",
+      "formatted_phone_number" : "(818) 238-9806",
+      "name" : "Guisados",
+      "place_id" : "ChIJ1d_2dFCVwoAR3qQAbmvgpDY",
+      "price_level" : 1,
+      "rating" : 4.6,
+      "website" : "http://www.guisados.co/"
+   },
+   "status" : "OK"
+}

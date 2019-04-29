@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "312 N San Fernando Blvd, Burbank, CA 91502, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "24.5 km",
+                  "value" : 24511
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1780
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

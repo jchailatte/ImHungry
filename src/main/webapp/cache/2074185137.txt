@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "9328 Artesia Blvd, Bellflower, CA 90706, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "33.2 km",
+                  "value" : 33159
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1827
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

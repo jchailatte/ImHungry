@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "922 Gayley Ave, Los Angeles, CA 90024, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "20.4 km",
+                  "value" : 20368
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1542
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "1048 South La Brea Ave, Los Angeles, CA 90019, USA",
+      "formatted_phone_number" : "(323) 938-8226",
+      "name" : "Trejo's Tacos La Brea",
+      "place_id" : "ChIJG-BIauK4woARPGTVNnd7Wy4",
+      "price_level" : 2,
+      "rating" : 4.1,
+      "website" : "http://www.trejostacos.com/"
+   },
+   "status" : "OK"
+}

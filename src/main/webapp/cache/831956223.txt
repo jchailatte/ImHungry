@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "409 N Pacific Coast Hwy Ste 110, Redondo Beach, CA 90277, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "31.1 km",
+                  "value" : 31064
+               },
+               "duration" : {
+                  "text" : "38 mins",
+                  "value" : 2295
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

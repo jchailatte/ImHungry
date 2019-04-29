@@ -1,0 +1,74 @@
+Review & Retrospective
+Wednesday, 4/17/19
+11:00am
+SGM 101
+
+Participants: Harrison Weinerman, Samuel Rosas-Meza, Peter Yang, Jonathan Chai, Justin Lam
+
+Review:
+
+Demo:
+Feature 1
+We lost points because a user did not have to log in to use the web application. To earn the remaining points, we must implement the feature that a user must log in to use the web application. The other aspects of the login feature were acceptable.
+Feature 2
+We were unable to receive feedback on this feature because our cucumber tests for data persistence did not work.
+Feature 3
+Our tests and pagination feature overall was enough for partial credit. However, we lost points because we did not have a list display of page numbers on the Results Page. We also lost points because we had arrows to navigate through the pages instead of a previous button and next button. In addition, in the list of 5 page numbers, the middle number must be the page number we are on.
+Feature 4
+The cucumber tests did not work. We were unable to receive feedback on this feature and earned 0 points.
+Feature 5
+Most points were earned. We lost 5 points because the text color on the Recipe and Restaurant page needs to be changed, from basic black to a more colorful color.
+Feature 6
+We earned points on basic grocery list functionality. However, we lost points because the grocery list was unable to delete individual items. In addition, the grocery list was not able to merge items from different recipes. For example, if one recipe item was 3 glasses of milk and another item from a different recipe contains 2 glasses of milk, the grocery list should display 5 glasses of milk.
+Feature 7
+We did not have written Cucumber tests for this feature so we earned 0 points.
+Feature 8
+Black box tests failed because because the restaurant functionality was down during the sprint review.
+
+Report:
+Professionalism
+The page numbers on table of contents were not refreshed. A half point deduction was made.
+Sprint Retrospective
+The link to retrospective commit was not included in the final report. A point and a half was deducted.
+Programming Sessions
+A series of deductions were made because of failed Travis-CI builds, failing to including feature files, and a commit time being the same for code and test. The deductions totaled 4.33 points.
+Simple Design
+A point deduction was made because design elements were used but there was insufficient quantitative metrics and measurements to show simple design.
+Refactor
+A .75 point deduction was made because only three out of four refactoring was included.
+
+Retrospective:
+
+Demo:
+Feature 1
+To earn the remaining points, a user must log in to use the web application. There is no guest functionality.
+Feature 2
+Our black box test for data persistence did not work because the restaurant functionality was down during the sprint review. For the next sprint review, we can earn points back by ensuring the cucumber tests work prior to the review.
+Feature 3
+We earned partial credit for this feature. To earn the remaining points, we need to display a list of page numbers, showing 5 at a time. Instead of using arrows to navigate the page, we need to implement a previous and next button. In the list of 5 page numbers, the middle number must be the page number we are on. For example, if a user was on page 6, the list would show “4, 5, 6, 7, 8.”
+Feature 4
+We will correct the refactoring error that caused the black box tests to fail. Additionally, we will implement the ability to click on the prior search term (on the search page) and immediately search the previously searched term.
+Feature 5
+Most points were earned. To earn the remaining 5 points, we need to change the text color on the Recipe and Restaurant page, from basic black to a more colorful color.
+Feature 6
+To earn the remaining points, the grocery list should be able to delete individual items. In addition, the grocery list needs to be able to merge items from different recipes. For example, if one recipe item was 3 glasses of milk and another item from a different recipe contains 2 glasses of milk, the grocery list should display 5 glasses of milk.
+Feature 7
+We need to write Cucumber tests for this feature. We also need to implement the list reordering.
+Feature 8
+Black box tests failed because because the restaurant functionality was down during the sprint review. We will ensure the tests are functioning before the nest demo.
+
+Report:
+Professionalism
+A Review Sprint 3 Report task will be added in order to review the professionalism policy to catch grammar and formatting errors.
+Sprint Retrospective
+A Sprint Retrospective commit link will be added immediately following the Review and Retrospective meeting.
+Programming Sessions
+Group F will improving sessions by ensuring Travi passes at the end of every sessions. Group F will also add feature files to commits. Group F will also ensure test commits and code commits are made separately.
+Simple Design
+Group F will add more time to verify the use of quantitative metrics to prove simple design.
+Refactor
+Group F has already decided on four refactors for Sprint 3:
+Restaurant class for reliability
+Split ListManagement into multiple classes
+Recipe search speed increase
+Cache recipe and restaurant information to database

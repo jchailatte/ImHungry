@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "20420 S Avalon Blvd Suite B, Carson, CA 90746, USA",
+      "formatted_phone_number" : "(310) 742-2298",
+      "name" : "Smashburger",
+      "place_id" : "ChIJCSW-SCU13YAR7ktmBvjQBTU",
+      "price_level" : 2,
+      "rating" : 3.9,
+      "website" : "https://locations.smashburger.com/united-states/ca/carson/20420-avalon-blvd"
+   },
+   "status" : "OK"
+}

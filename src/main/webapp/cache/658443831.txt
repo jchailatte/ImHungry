@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "217 N Larchmont Blvd, Los Angeles, CA 90004, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.2 km",
+                  "value" : 10171
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1492
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

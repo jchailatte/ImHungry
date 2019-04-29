@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "409 N Pacific Coast Hwy Ste 110, Redondo Beach, CA 90277, USA",
+      "formatted_phone_number" : "(310) 347-4656",
+      "name" : "Smashburger",
+      "place_id" : "ChIJtW5De5-0woAR4PN4YAeBFVc",
+      "price_level" : 2,
+      "rating" : 4.2,
+      "website" : "https://locations.smashburger.com/united-states/ca/redondo-beach/409-n-pacific-coast-hwy"
+   },
+   "status" : "OK"
+}

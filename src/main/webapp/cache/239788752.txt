@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "100 Universal City Plaza, V-205, Universal City, CA 91608, USA",
+      "formatted_phone_number" : "(818) 850-5628",
+      "name" : "Smashburger",
+      "place_id" : "ChIJY14BkE6-woARK20BWvjz9gA",
+      "price_level" : 2,
+      "rating" : 2.4,
+      "website" : "https://locations.smashburger.com/united-states/ca/universal-city/100-universal-city-plaza-v-205"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,24 @@
+Jonathan:
+1. This is our first meeting, so I have not done anything yet.
+2. There are currently no obstacles.
+3. I will review at my previous group’s code base and discuss with the group regarding how much of the code can be reused.
+
+Peter:
+1. This is our first meeting, so I have not done anything yet.
+2. I have no blockers yet.
+3. Before next meeting I will look at all requirements and consider to bring a discussion of what our priority to consider. For this project I will mainly focus on front end considerations.
+
+Harrison:
+1. This is our first meeting, so I have not done anything yet.
+2. I have no blockers yet.
+3. Before next meet, I will setup the Github repo and new Asana workspace
+
+Justin:
+1. Nothing was done previously because it is our first meeting.
+2. There are no obstacles.
+3. Before the next meeting: I will read over the group’s code, and ask the professor for clarification on our teams’ questions. I will also validate that our previous SQL persistence works for 2a.
+
+Samuel:
+1. This is our first meeting, so I have not done anything yet.
+2. No considerable obstacles at this point.
+3. Before next meeting will begin Sprint 1 report layout, follow up on questions regarding documentation and project 2 features.

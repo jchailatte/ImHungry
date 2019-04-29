@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1030 Glendon Ave, Los Angeles, CA 90024, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "20.4 km",
+                  "value" : 20388
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1565
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

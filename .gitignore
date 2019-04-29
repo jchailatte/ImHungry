@@ -1,0 +1,10 @@
+.idea/
+target/
+src/main/webapp/static/js/
+package-lock.json
+node_modules/
+.DS_Store
+*.userlibraries
+.settings/
+imhungry.iml
+debug.log

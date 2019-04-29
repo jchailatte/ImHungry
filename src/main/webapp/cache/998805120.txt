@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "13333 South St, Cerritos, CA 90703, USA",
+      "formatted_phone_number" : "(562) 860-2667",
+      "name" : "Amor Y Tacos",
+      "place_id" : "ChIJD79qrVws3YARmHv-Mf11nqk",
+      "price_level" : 2,
+      "rating" : 4.4,
+      "website" : "http://amorytacos.com/"
+   },
+   "status" : "OK"
+}

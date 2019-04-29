@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "406 E First St, Long Beach, CA 90802, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "37.7 km",
+                  "value" : 37670
+               },
+               "duration" : {
+                  "text" : "36 mins",
+                  "value" : 2181
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

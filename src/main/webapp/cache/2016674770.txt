@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1011 S Figueroa St Ste B101, Los Angeles, CA 90015, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.6 km",
+                  "value" : 4591
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 863
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

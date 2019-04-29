@@ -1,0 +1,11 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "5052 N Eagle Rock Blvd, Los Angeles, CA 90041, USA",
+      "formatted_phone_number" : "(323) 341-7013",
+      "name" : "Local Kicks",
+      "place_id" : "ChIJN0bwEWfBwoARe5vRsX4RHH0",
+      "rating" : 4.5
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,24 @@
+Jonathan Chai
+I have begun modernizing the Restaurant and Recipe page.
+There are no obstacles.
+I will finish modernizing both the Recipe and Restaurant pages.
+
+Justin Lam
+I finished the test cases for all of the restaurant functions that interact with the database in the ListManagement class.
+There are no obstacles in the way of meeting my goal.
+I will finish the the test cases for all of the recipe functions that interact with the database to achieve 100% code coverage of List Management class that fulfills the requirement of maintaining information past a single session.
+
+Samuel Rosas-Meza
+Looked into Google Places pagination system with Harrison, but will postpone working on pagination until next Sprint 1. Continued documentation of scrums, programming sessions, and best practices.
+No major obstacles.
+I will assist Justin in code coverage on DbUnit testing. Specifically, reaching 100% coverage in List Management to satisfy Feature 2 completion. I will work with Harrison on API key changes and general testing of new features.
+
+Harrison Weinerman
+Sam and I began investigating Google Places pagination API but realized there likely would not be sufficient time to make coding progress until the next spring, so we have added information to the ticket and will hold off for now.
+We are waiting to complete and validate this spring before continuing on the above.
+I will test the PRs we have merged so far to validate that things still work the way we expect before our last standup of the sprint with Sam. I will also work with Sam to update our API keys.
+
+Peter Yang
+I finished modernizing the results page including connecting it with live data from the backend.
+I am not as familiar with the mobile responsive methods to use with the Stack component layout so I will need to research a little more to maintain that on this UI refresh.
+I will start and hopefully finish modernizing the list management page.

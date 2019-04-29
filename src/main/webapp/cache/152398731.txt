@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "9200 Flair Dr, El Monte, CA 91731, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "25.3 km",
+                  "value" : 25321
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1560
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,18 @@
+4/2/19 9pm
+Harrison Weinerman, Samuel Rosas-Meza, Jonathan Chai, Peter Yang, Justin Lam
+
+Review
+Feature 2: List Persistence
+Our black box test for data persistence was missing a component that automatically quits the browser to verify persistence so we were unable to get feedback on this yet.
+Feature 5: Modernize UI
+The search page was deemed sufficient but the other pages needed more color to be considered attractive. No specific sections were mentioned for more color but overall, we would told “color could go a long way”. Specifically for the recipe page, larger font size would help with the spacing and some adjustments for white space (margin / padding) to improve the padding. The CP was confused about the results page since there was no loading animation so it was unclear that the page was not done loading yet. Some positive notes were on the navigation bar at the top so putting controls there seems be a better alternative than buttons within the main body.
+Feature 8: Restaurant Radius
+In our demo, the CP noted that we should improve our black box tests for radius filtering and add a test to account for bad input and other various scenarios. We would need to know a specific restaurant for a search term that is out of the radius for a test case. We were also told to add an error message that says no results found if there are no results within the specified radius and make a black box test to verify this.
+
+Retrospective
+Feature 2: List Persistence
+We will add a black box test in Cucumber that confirms quitting the browser and re-opening it preserves list state.
+Feature 5: Modernize UI
+We are going to add more color to the UI and increase some font sizes for readability. Additionally, loading animations will be put into place. Lastly, we will improve the white space (margin and padding) particularly on the results page and the recipe page.
+Feature 8: Restaurant Radius
+We will add a black box test to confirm bad input works appropriately. We will also add an error message that says “No Results Found” if there are no results within the search radius.

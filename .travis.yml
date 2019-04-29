@@ -1,0 +1,53 @@
+dist: xenial
+language: java
+
+addons:
+  chrome: stable # Necessary for cucumber tests
+
+cache:
+  directories:
+    - src/main/webapp/node_modules # Cache node modules
+
+jdk:
+  - oraclejdk11 # Use Java 11
+
+services:
+  - mysql # Database
+  - xvfb # GUI Server
+
+before_install:
+  # Initialize db + tables
+  - mysql -e "source src/main/sql/database.sql;" -u root --password=""
+
+install:
+  # Install and build frontend files
+  - cd src/main/webapp
+  - npm install
+  - npm run build
+  - cd ..
+  - cd ..
+  - cd ..
+
+  # Install chrome driver and ruby files
+  - cd cucumber
+  - wget https://chromedriver.storage.googleapis.com/74.0.3729.6/chromedriver_linux64.zip
+  - mkdir driver
+  - unzip chromedriver_linux64.zip -d driver
+  - cd driver 
+  - cd ..
+  - bundle install
+  - cd ..
+
+before_script:
+  # Start the tomcat server
+  - mvn tomcat7:run &
+  # Give tomcat (a lot of) time to start
+  - sleep 30
+
+script:
+  # First run the cucumber tests
+  - cd cucumber
+  - cucumber
+  - cd ..
+  # Next run the JUnit tests
+  - mvn test

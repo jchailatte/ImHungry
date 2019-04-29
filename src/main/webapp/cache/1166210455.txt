@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "14952 Valley Blvd, La Puente, CA 91746, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "34.7 km",
+                  "value" : 34741
+               },
+               "duration" : {
+                  "text" : "34 mins",
+                  "value" : 2028
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

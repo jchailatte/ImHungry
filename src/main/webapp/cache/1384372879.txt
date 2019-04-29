@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "119 S Brand Blvd, Glendale, CA 91204, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "21.1 km",
+                  "value" : 21130
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1789
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

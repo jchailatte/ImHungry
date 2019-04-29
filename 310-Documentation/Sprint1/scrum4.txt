@@ -1,0 +1,24 @@
+Jonathan Chai
+I began working on the Results page with Peter.
+I am unfamiliar with the React UI Framework that we decided to use so I need to look into its documentation.
+I will continue working on the Results page with Peter as well as the Restaurant and Recipe pages.
+
+Justin Lam
+I’ve achieved more code coverage from the ListManagementTest and read more documentation on DBUnit tests.
+I’m having trouble inserting into the mock database xml file.
+I will continue to work on achieving 100% code coverage for the java code that interacts with our team’s mySQL database.
+
+Samuel Rosas-Meza
+I finished the Google places change to take in radius with Harrison utilizing the new UI control.
+There are no obstacles.
+I will look into the Google Places pagination system with Harrison.
+
+Harrison Weinerman
+I finished the Google places change to take in radius with Sam utilizing the new UI control.
+There’s nothing in the way.
+I will look into the Google Places pagination system with Sam.
+
+Peter Yang
+I began modernizing the results page including the image collage, controls, and text.
+For some of the React components provided by the Fabric UI library, passing IDs to the HTML components is not available directly so some workarounds were necessary to make the frontend compatible with the Cucumber tests.
+I will finish modernizing the results page with the table of results for both restaurants and recipes that display all necessary information and click to the detailed pages.

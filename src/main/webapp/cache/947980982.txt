@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "395 Santa Monica Blvd, Santa Monica, CA 90401, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "22.2 km",
+                  "value" : 22171
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1511
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

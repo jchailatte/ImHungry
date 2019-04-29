@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "8730 Woodman Ave, Arleta, CA 91331, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "34.7 km",
+                  "value" : 34742
+               },
+               "duration" : {
+                  "text" : "37 mins",
+                  "value" : 2219
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

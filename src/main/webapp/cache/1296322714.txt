@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1595 Sepulveda Blvd, Torrance, CA 90501, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "27.3 km",
+                  "value" : 27349
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1722
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

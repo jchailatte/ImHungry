@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "4404, 1710 N Highland Ave, Los Angeles, CA 90028, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "18.3 km",
+                  "value" : 18273
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1647
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

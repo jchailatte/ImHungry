@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "451 Manhattan Beach Blvd D, Manhattan Beach, CA 90266, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "29.5 km",
+                  "value" : 29489
+               },
+               "duration" : {
+                  "text" : "35 mins",
+                  "value" : 2118
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

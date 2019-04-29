@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "5864 Lankershim Blvd, North Hollywood, CA 91605, USA",
+      "formatted_phone_number" : "(800) 786-1000",
+      "name" : "In-N-Out Burger",
+      "place_id" : "ChIJI25WUN2VwoAREUvf8-l0huA",
+      "price_level" : 1,
+      "rating" : 4.5,
+      "website" : "http://locations.in-n-out.com/9"
+   },
+   "status" : "OK"
+}

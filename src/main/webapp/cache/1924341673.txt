@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "4504 E 3rd St, Los Angeles, CA 90022, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "13.7 km",
+                  "value" : 13670
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1160
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "11058 Santa Monica Blvd, Los Angeles, CA 90025, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "18.4 km",
+                  "value" : 18397
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1396
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

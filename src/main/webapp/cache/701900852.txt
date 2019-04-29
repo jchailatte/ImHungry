@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "16244 Whittier Blvd, Whittier, CA 90603, USA",
+      "formatted_phone_number" : "(562) 902-3886",
+      "name" : "Yang's Chinese Restaurant",
+      "place_id" : "ChIJTfQ8x8TUwoAROADvADwYVlI",
+      "rating" : 4.3,
+      "website" : "http://yangsrestaurant.com/"
+   },
+   "status" : "OK"
+}

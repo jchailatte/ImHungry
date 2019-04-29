@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "60 N Raymond Ave, Pasadena, CA 91103, USA",
+      "formatted_phone_number" : "(626) 577-2888",
+      "name" : "Grandview Palace",
+      "place_id" : "ChIJQ8EV63HDwoARCGW-hlZkePQ",
+      "rating" : 4.3,
+      "website" : "http://www.grandview-palace.com/"
+   },
+   "status" : "OK"
+}

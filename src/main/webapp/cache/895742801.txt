@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "12823 Normandie Ave, Gardena, CA 90249, USA",
+      "formatted_phone_number" : "(310) 532-5207",
+      "name" : "Tacos La Perla",
+      "place_id" : "ChIJNzk3Dva1woARpqXAMRqJ7mg",
+      "price_level" : 1,
+      "rating" : 4.5,
+      "website" : "https://www.facebook.com/Tacos-La-Perla-392822144184058/"
+   },
+   "status" : "OK"
+}

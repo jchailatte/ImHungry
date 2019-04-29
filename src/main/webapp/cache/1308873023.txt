@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "3705 S Robertson Blvd, Culver City, CA 90232, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "12.7 km",
+                  "value" : 12740
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1252
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

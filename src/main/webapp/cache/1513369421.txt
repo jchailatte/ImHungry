@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "7954 Santa Monica Blvd, West Hollywood, CA 90046, USA",
+      "formatted_phone_number" : "(323) 848-9141",
+      "name" : "Los Tacos",
+      "place_id" : "ChIJeb-n3sW-woARNJXTyzBgIss",
+      "price_level" : 1,
+      "rating" : 4.4
+   },
+   "status" : "OK"
+}

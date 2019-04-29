@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "7954 Santa Monica Blvd, West Hollywood, CA 90046, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "16.2 km",
+                  "value" : 16200
+               },
+               "duration" : {
+                  "text" : "34 mins",
+                  "value" : 2022
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

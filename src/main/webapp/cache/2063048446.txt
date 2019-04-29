@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "5440 S Central Ave, Los Angeles, CA 90011, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.1 km",
+                  "value" : 6064
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1059
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

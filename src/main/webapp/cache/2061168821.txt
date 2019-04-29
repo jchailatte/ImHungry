@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "301 Ord St, Los Angeles, CA 90012, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.3 km",
+                  "value" : 8333
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1104
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

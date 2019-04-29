@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "10704 Venice Blvd #B, Ste 330, Culver City, CA 90232, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "15.1 km",
+                  "value" : 15118
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1411
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

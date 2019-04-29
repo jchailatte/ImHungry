@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "17267 Ventura Blvd, Encino, CA 91316, USA",
+      "formatted_phone_number" : "(818) 501-0088",
+      "name" : "Ping Pong Chinese Cuisine",
+      "place_id" : "ChIJVTGn9jWYwoARb4o9noRMO90",
+      "price_level" : 1,
+      "rating" : 4.3,
+      "website" : "http://www.pingpongencino.com/"
+   },
+   "status" : "OK"
+}

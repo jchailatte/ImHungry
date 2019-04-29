@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "633 W. 5th Street, 71st Floor, Los Angeles, CA 90071, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.4 km",
+                  "value" : 6420
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 891
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

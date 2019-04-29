@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "10704 Venice Blvd #B, Ste 330, Culver City, CA 90232, USA",
+      "formatted_phone_number" : "(310) 893-6244",
+      "name" : "Smashburger",
+      "place_id" : "ChIJh7kMXTC6woARgc8MaaxD2Qs",
+      "price_level" : 2,
+      "rating" : 4.1,
+      "website" : "https://locations.smashburger.com/united-states/ca/culver-city/10704-venice-blvd"
+   },
+   "status" : "OK"
+}

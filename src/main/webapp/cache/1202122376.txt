@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "8566 Westminster Blvd, Westminster, CA 92683, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "54.5 km",
+                  "value" : 54530
+               },
+               "duration" : {
+                  "text" : "44 mins",
+                  "value" : 2615
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

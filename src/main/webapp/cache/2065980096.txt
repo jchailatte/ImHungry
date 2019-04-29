@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "600 N Sepulveda Blvd, El Segundo, CA 90245, USA",
+      "formatted_phone_number" : "(800) 786-1000",
+      "name" : "In-N-Out Burger",
+      "place_id" : "ChIJ1WkhCkuxwoARW6zWud2G4SQ",
+      "price_level" : 1,
+      "rating" : 4.6,
+      "website" : "http://locations.in-n-out.com/309"
+   },
+   "status" : "OK"
+}

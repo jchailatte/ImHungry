@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "217 N Larchmont Blvd, Los Angeles, CA 90004, USA",
+      "formatted_phone_number" : "(323) 462-2310",
+      "name" : "Burger Lounge",
+      "place_id" : "ChIJdzrHbse4woARwbth0qmfStw",
+      "price_level" : 2,
+      "rating" : 4.5,
+      "website" : "http://www.burgerlounge.com/locations/location-larchmont"
+   },
+   "status" : "OK"
+}

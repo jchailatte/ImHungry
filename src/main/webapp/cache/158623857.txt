@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "7140 Van Nuys Blvd, Van Nuys, CA 91405, USA",
+      "formatted_phone_number" : "(818) 721-6169",
+      "name" : "Tacos Mexico",
+      "place_id" : "ChIJ-9r-fRiXwoARSFsUOoK5248",
+      "price_level" : 1,
+      "rating" : 3.6,
+      "website" : "http://tacosmexico.com/location/"
+   },
+   "status" : "OK"
+}

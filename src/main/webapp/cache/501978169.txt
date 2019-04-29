@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "8851 W Garden Grove Blvd, Garden Grove, CA 92844, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "54.5 km",
+                  "value" : 54535
+               },
+               "duration" : {
+                  "text" : "43 mins",
+                  "value" : 2608
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

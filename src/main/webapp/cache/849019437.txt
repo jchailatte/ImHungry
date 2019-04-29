@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "4081 Whittier Blvd, Los Angeles, CA 90023, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "13.9 km",
+                  "value" : 13852
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1152
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "115 Main St, Seal Beach, CA 90740, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "46.7 km",
+                  "value" : 46670
+               },
+               "duration" : {
+                  "text" : "44 mins",
+                  "value" : 2650
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "1011 S Figueroa St Ste B101, Los Angeles, CA 90015, USA",
+      "formatted_phone_number" : "(213) 631-3355",
+      "name" : "Smashburger",
+      "place_id" : "ChIJlcj44rjHwoARZXuMEbtsMqI",
+      "price_level" : 2,
+      "rating" : 3.7,
+      "website" : "https://locations.smashburger.com/united-states/ca/los-angeles/1011-s-figueroa-st"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "4141 S Centinela Ave, Los Angeles, CA 90066, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "22.0 km",
+                  "value" : 21982
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1594
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

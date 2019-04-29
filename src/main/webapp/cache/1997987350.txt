@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "22950 Lyons Ave, Newhall, CA 91321, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "63.1 km",
+                  "value" : 63079
+               },
+               "duration" : {
+                  "text" : "51 mins",
+                  "value" : 3036
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

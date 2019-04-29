@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "330 Pine Ave, Long Beach, CA 90802, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "36.1 km",
+                  "value" : 36112
+               },
+               "duration" : {
+                  "text" : "34 mins",
+                  "value" : 2039
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "12823 Normandie Ave, Gardena, CA 90249, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "15.0 km",
+                  "value" : 14976
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1171
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

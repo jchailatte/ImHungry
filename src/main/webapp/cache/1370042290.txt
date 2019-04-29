@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "7105 Sunset Blvd, Los Angeles, CA 90046, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "17.6 km",
+                  "value" : 17589
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1826
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

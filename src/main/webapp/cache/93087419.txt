@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "400 World Way, Los Angeles, CA 90045, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "25.8 km",
+                  "value" : 25811
+               },
+               "duration" : {
+                  "text" : "31 mins",
+                  "value" : 1837
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

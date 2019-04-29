@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1951 San Pedro St, Los Angeles, CA 90011, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.5 km",
+                  "value" : 4503
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 867
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

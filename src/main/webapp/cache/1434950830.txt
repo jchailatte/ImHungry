@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "11222 Washington Pl, Culver City, CA 90230, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "19.2 km",
+                  "value" : 19201
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1417
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,56 @@
+DROP DATABASE IF EXISTS imhungry;
+CREATE DATABASE imhungry;
+USE imhungry;
+CREATE TABLE Users(
+  userID INT(11) AUTO_INCREMENT PRIMARY KEY,
+  username VARCHAR(150) UNIQUE NOT NULL,
+  salt VARBINARY(16) NOT NULL,
+  passwrd VARBINARY(64) NOT NULL
+);
+CREATE TABLE Restaurant(
+  restaurantID INT(11) AUTO_INCREMENT PRIMARY KEY,
+  placeID VARCHAR(200) NOT NULL,
+  userID INT(11) NOT NULL,
+  FOREIGN KEY(userID) REFERENCES Users(userID),
+  restaurantName VARCHAR(250) NOT NULL,
+  listType ENUM('NONE','FAVORITE', 'TO_EXPLORE','DO_NOT_SHOW') DEFAULT 'NONE',
+  address VARCHAR(250) NOT NULL,
+  driveTime VARCHAR(20) NOT NULL,
+  phoneNumber VARCHAR(30) NOT NULL,
+  webURL VARCHAR(250) DEFAULT 'No Web URL',
+  stars DOUBLE(5,0) NOT NULL,
+  price INT(5) NOT NULL,
+  listOrder INT(11)
+);
+CREATE TABLE Recipe(
+  recipeID INT(11) AUTO_INCREMENT PRIMARY KEY,
+  recipeURL VARCHAR(250) NOT NULL,
+  userID INT(11) NOT NULL,
+  FOREIGN KEY(userID) REFERENCES Users(userID),
+  recipeName VARCHAR(250) NOT NULL,
+  listType ENUM('NONE', 'FAVORITE', 'TO_EXPLORE','DO_NOT_SHOW') DEFAULT 'NONE',
+  prepTime VARCHAR(20) NOT NULL,
+  cookTime VARCHAR(20) NOT NULL,
+  imageURL TEXT NOT NULL,
+  stars DOUBLE(5,0) NOT NULL,
+  ingredients TEXT NOT NULL,
+  steps TEXT NOT NULL,
+  listOrder INT(11)
+);
+CREATE TABLE SearchTerms(
+  searchID INT(11) AUTO_INCREMENT PRIMARY KEY,
+  userID INT(11) NOT NULL,
+  FOREIGN KEY(userID) REFERENCES Users(userID),
+  searchedItem TEXT NOT NULL
+);
+CREATE TABLE GroceryLists(
+  groceryID INT(11) AUTO_INCREMENT PRIMARY KEY,
+  userID INT(11) NOT NULL,
+  FOREIGN KEY(userID) REFERENCES Users(userID),
+  groceryIngredients TEXT NOT NULL,
+  unit TEXT NOT NULL,
+  amount FLOAT(11) DEFAULT 0,
+  checked BOOLEAN DEFAULT FALSE
+);
+INSERT INTO Users(username, salt, passwrd)
+  VALUES ("testUser",'something' ,'password');

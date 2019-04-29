@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "281 S Beverly Dr, Beverly Hills, CA 90212, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "15.9 km",
+                  "value" : 15902
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1547
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

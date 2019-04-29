@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "330 Pine Ave, Long Beach, CA 90802, USA",
+      "formatted_phone_number" : "(562) 436-7900",
+      "name" : "Hamburger Mary's",
+      "place_id" : "ChIJ_Wpk9j0x3YARbBPSOrHAXE8",
+      "price_level" : 2,
+      "rating" : 4.2,
+      "website" : "http://www.hamburgermaryslb.com/"
+   },
+   "status" : "OK"
+}

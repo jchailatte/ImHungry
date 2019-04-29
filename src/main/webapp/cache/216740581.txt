@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "2431 W Washington Blvd, Los Angeles, CA 90018, USA",
+      "formatted_phone_number" : "(310) 948-4714",
+      "name" : "Tacos Como En El D.f. Taco Truck",
+      "place_id" : "ChIJB6vGi2W4woARAZd4Hnxfjfw",
+      "price_level" : 1,
+      "rating" : 4.5
+   },
+   "status" : "OK"
+}

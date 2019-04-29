@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "4655 Hollywood Blvd, Los Angeles, CA 90027, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "14.0 km",
+                  "value" : 14021
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1509
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,30 @@
+Scrum 5
+Date: 4/25/19
+Time: 9:00 pm
+Location: JFF 421
+Participants: Harrison Weinerman, Samuel Rosas-Meza, Jonathan Chai, Peter Yang, Justin Lam
+Stand Up
+Harrison Weinerman
+I finished the caching refactor for NetworkReader.
+There are no obstacles.
+I will continue to work on documentation with the team.
+
+Samuel Rosas-Meza
+I worked on finishing documentation and configuring environment for demo.
+There are no obstacles.
+Verify all items in Sprint Report prior to submission.
+
+Jonathan Chai
+I worked on documentation and improved cucumber tests for more test cases.
+There are no obstacles.
+I will check over the Sprint Report.
+
+Peter Yang
+I finished the implementation of list reordering. You can now drag and drop items on the list management page and the ordering is persistent.
+The cucumber documentation regarding drag and drop was not clear but I eventually managed to figure out how to make it work.
+I will “study” for the CSCI 310 final.
+
+Justin Lam
+I fixed minor bugs, fixed broken test cases after merging code, and added merging functionality for grocery list items.
+There are no obstacles at the moment.
+I will look over the Sprint 3 Report.

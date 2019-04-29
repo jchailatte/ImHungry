@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "4504 E 3rd St, Los Angeles, CA 90022, USA",
+      "formatted_phone_number" : "(323) 264-4067",
+      "name" : "King Taco # 2",
+      "place_id" : "ChIJ_eAdSXDPwoARCUtNDWTtfyk",
+      "price_level" : 1,
+      "rating" : 4.3,
+      "website" : "http://www.kingtaco.com/"
+   },
+   "status" : "OK"
+}

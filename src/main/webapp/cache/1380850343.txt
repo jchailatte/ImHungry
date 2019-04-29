@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "9200 Flair Dr, El Monte, CA 91731, USA",
+      "formatted_phone_number" : "(626) 569-0864",
+      "name" : "Del Taco",
+      "place_id" : "ChIJScwdyoHawoARSoIRX4_hHHU",
+      "price_level" : 1,
+      "rating" : 4.1,
+      "website" : "http://www.deltaco.com/"
+   },
+   "status" : "OK"
+}

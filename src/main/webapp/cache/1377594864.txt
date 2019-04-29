@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "6060 N Figueroa St, Highland Park, CA 90042, USA",
+      "formatted_phone_number" : "(323) 258-9353",
+      "name" : "Taco Bell",
+      "place_id" : "ChIJ01wfHRLEwoARbcZ9gpS_dIU",
+      "price_level" : 1,
+      "rating" : 3.8,
+      "website" : "https://locations.tacobell.com/ca/highland-park/6060-north-figueroa-street.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=019989&utm_content=website"
+   },
+   "status" : "OK"
+}

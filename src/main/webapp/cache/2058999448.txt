@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "7548 Lankershim Blvd, North Hollywood, CA 91605, USA",
+      "formatted_phone_number" : "(818) 503-4909",
+      "name" : "Sandy's Tacos",
+      "place_id" : "ChIJDb68eiaUwoARv31NFDGqmHU",
+      "price_level" : 1,
+      "rating" : 4.4
+   },
+   "status" : "OK"
+}

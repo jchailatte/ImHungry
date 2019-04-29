@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1701 Artesia Blvd, Gardena, CA 90248, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "20.7 km",
+                  "value" : 20660
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1495
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,31 @@
+Scrum 4
+Date: Wednesday, 4/10/19
+Time: 11:00 am
+Location: SGM 101
+Participants: Harrison Weinerman, Samuel Rosas-Meza, Jonathan Chai, Peter Yang, Justin Lam
+Stand Up
+
+Harrison Weinerman
+I added the radius error white box test as well as worked on the reliability improvement to the radius function with Sam. We also made it so we burn less credits by not fetching beyond the minimum Restaurants from Google APIs, but this is not yet merged because below.
+Tests that passed locally failed on CI so we have to fix a few more things but know what is broken to fix.
+I will finalize and fix the above 3 items, radius reliability/credit changes/white box test and merge once CI passes.
+
+Samuel Rosas-Meza
+Justin and I corrected the databases to handle userID parameters as ints. We also updated the xml and the corresponding database tests to handle userID as ints as opposed to Strings. A search query test was also added. I also assisted Harrison with white box radius tests and methods.
+Conflicting SQL passwords must be standardized for team and constantly switching API keys.
+I will help Harrison again with the radius reliability and fixing cucumber testing to pass CI.
+
+Jonathan Chai
+I implemented the “Recent Searches” functionality and its related cucumber tests. I also worked with Peter to work on the login/register/login UI components and their tests.
+There were no particular obstacles
+What will I do?
+
+Peter Yang
+I was only able to get to the front end implementation of user accounts. This included the login / register / logout UI components with respective cucumber tests.
+There were no problems in my way except for aggressive time estimation; however I can allocate time later to make up to finish the login system that integrates with all other sections.
+I will finish the user implementation (register / login / logout) and plug in all endpoints that require authentication (list management, search history). With that, I expect to verify that data persistence is maintained between login sessions and that information is confidential between unique users.
+
+Justin Lam
+Sam and I corrected the database functions to handle userID parameters as integers. We also updated the xml and the corresponding database tests to handle userID as ints as opposed to Strings. Search query tests were also added to check data persistence.
+I cannot tell if the new ListManagement tests work since the servlet codes calling the new functions have not been appropriately updated yet. Also, Google API credits are extremely low.
+I will test and code an implementation that allows any of the three predetermined lists to be reordered. I will write functions to handle the bitstring representations for adding ingredients from a recipes’ ingredients.

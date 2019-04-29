@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "1515 Ocean Ave, Santa Monica, CA 90401, USA",
+      "formatted_phone_number" : "(310) 458-2985",
+      "name" : "Blue Plate Taco",
+      "place_id" : "ChIJZdv9V9CkwoARtCFEbwzP2G8",
+      "price_level" : 2,
+      "rating" : 4.3,
+      "website" : "https://www.blueplatetaco.com/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "3313 Hyland Ave, Costa Mesa, CA 92626, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "62.8 km",
+                  "value" : 62829
+               },
+               "duration" : {
+                  "text" : "49 mins",
+                  "value" : 2959
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

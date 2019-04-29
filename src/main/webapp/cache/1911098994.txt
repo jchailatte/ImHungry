@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "13425 Washington Blvd, Marina Del Rey, CA 90292, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "22.4 km",
+                  "value" : 22385
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1804
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1900 S Central Ave, Los Angeles, CA 90011, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.2 km",
+                  "value" : 6162
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 872
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

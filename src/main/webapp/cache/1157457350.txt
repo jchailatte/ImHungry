@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "3411 W Century Blvd, Inglewood, CA 90301, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "15.2 km",
+                  "value" : 15195
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1518
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

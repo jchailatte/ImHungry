@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "922 Gayley Ave, Los Angeles, CA 90024, USA",
+      "formatted_phone_number" : "(800) 786-1000",
+      "name" : "In-N-Out Burger",
+      "place_id" : "ChIJKZm9foS8woAR4oa_Lf37xIQ",
+      "price_level" : 1,
+      "rating" : 4.5,
+      "website" : "http://locations.in-n-out.com/119"
+   },
+   "status" : "OK"
+}

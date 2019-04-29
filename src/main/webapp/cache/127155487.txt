@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "9635 Reseda Blvd, Northridge, CA 91324, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "47.5 km",
+                  "value" : 47529
+               },
+               "duration" : {
+                  "text" : "47 mins",
+                  "value" : 2791
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "3005 Old Ranch Pkwy, Seal Beach, CA 90740, USA",
+      "formatted_phone_number" : "(562) 596-2199",
+      "name" : "Spaghettini",
+      "place_id" : "ChIJ_T-Yg64v3YAR9SIdIbpqw9U",
+      "price_level" : 3,
+      "rating" : 4.6,
+      "website" : "https://spaghettini.com/"
+   },
+   "status" : "OK"
+}

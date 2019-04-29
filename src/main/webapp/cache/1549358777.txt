@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "4349 Tujunga Ave, Studio City, CA 91604, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "23.7 km",
+                  "value" : 23733
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1786
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

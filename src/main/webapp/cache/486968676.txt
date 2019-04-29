@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "8566 Westminster Blvd, Westminster, CA 92683, USA",
+      "formatted_phone_number" : "(714) 893-3020",
+      "name" : "Peking Restaurant",
+      "place_id" : "ChIJ6R_GOykm3YARI4Xco_OBRdI",
+      "price_level" : 1,
+      "rating" : 4.4,
+      "website" : "http://www.pekingwestminster.com/"
+   },
+   "status" : "OK"
+}

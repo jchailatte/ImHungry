@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "17071 Beach Blvd, Huntington Beach, CA 92647, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "55.2 km",
+                  "value" : 55250
+               },
+               "duration" : {
+                  "text" : "45 mins",
+                  "value" : 2680
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

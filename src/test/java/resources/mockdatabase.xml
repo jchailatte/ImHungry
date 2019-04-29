@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <!--Restaurant-->
+    <Restaurant1 placeID="ChIJx4xJnoG4woARDB61pcKADlw" restaurantName = "Bud Namu" listType = 'NONE'
+                address = '809 S Ardmore Ave, Los Angeles, CA 90005, USA' driveTime = "17 mins" phoneNumber = '(213) 385-9292'
+                webURL = 'http://www.budnamubbqla.com/' stars = '4' price = '2' />
+    <Restaurant2 placeID="ChIJLyzMquXHwoAR0RpYK9bAM3M" restaurantName = "Wahlburgers" listType = 'NONE'
+                address = '835 W Jefferson Blvd #1710, Los Angeles, CA 90007, USA' driveTime = "7 mins" phoneNumber = '(213) 536-5962'
+                webURL = 'https://wahlburgers.com/usc' stars = '4' price = '2' />
+
+    <!--Recipe-->
+    <Recipe1 recipeURL= "http://allrecipes.co.uk/recipe/7592/toast.aspx" recipeName = "Toast" listType = 'NONE'
+            prepTime = '8min' cookTime = "2min" imageURL = 'http://ukcdn.ar-cdn.com/recipes/port500/30da46e0-925c-40e3-b26e-d6c39a7eeb13.jpg'
+            stars = '3' ingredients = '2 pieces of wholemeal bread;30 grams of margarine or butter'
+            steps = 'Place your bread in your toaster and put it on for 2 mins;When your toast has been toast spread 15 grams of margarine or butter on each piece of toast.;Put it in a plate, eat with jam or marmalade and enjoy!' />
+
+    <!--Recipe-->
+    <Recipe2 recipeURL= "http://allrecipes.co.uk/recipe/24784/grilled-cheese-sandwich.aspx" recipeName = "Grilled cheese sandwich"
+        listType = 'NONE' prepTime = '10min' cookTime = "5min" imageURL = 'http://ukcdn.ar-cdn.com/recipes/port500/8b4ceb29-de65-4589-8b85-3ce1bc099421.jpg'
+        stars = '5' ingredients = '5 slices cheese;2 slices bread;1 teaspoon water;butter as needed'
+        steps = "Obtain a frying pan of correct size for the number of sandwiches you can handle at a time.;Put pan on stove over medium heat until hot. During heating, begin slicing cheese and getting bread. It's a good idea to put a couple of tablespoons of water in the pan while it is warming up. When the water boils, the pan is warm enough to put your first sandwich on. Just make sure you pour the remaining water out before you put a sandwich in.;
+            Butter pan, or the outside of each slice of bread, whichever you prefer, and put one side of sandwich on pan with cheese on top. Then add the top slice right away. Lower the heat and cover to help the cheese melt.;
+            Check to see if bread is brown after no more than a minute and a half, although more time may be needed for desired results. When bread is brown enough, flip. Dispose of the left over butter grounds out of the pan, so the next flip will be fresh.;
+            Know that the second side should brown faster so be prepared to check it in no time. When it is cooked to your satisfaction, turn off the stove, put your sandwich on a plate, and enjoy.;" />
+
+    <!--Recipe-->
+    <Recipe3 recipeURL= "http://allrecipes.co.uk/recipe/9759/scrambled-eggs.aspx" recipeName = "Scrambled Eggs"
+        listType = 'NONE' prepTime = '2min' cookTime = "4min" imageURL = 'http://ukcdn.ar-cdn.com/recipes/port500/2dad4555-bf30-4e9e-88c2-b364e237115d.jpg'
+        stars = '4.5' ingredients = '2 eggs;1 teaspoon mayonnaise or salad cream;1 teaspoon water;1 teaspoon butter;salt and pepper to taste;'
+        steps = "In a small bowl, whisk together the eggs, mayonnaise and water using a fork. Melt butter in a frying pan over low heat. Pour in the eggs and stir constantly as they cook. Remove the eggs to a plate when they are set, but still moist. Do not over cook. Never add salt or pepper until eggs are on plate, but these are also good without.;" />
+
+    <SearchTerm searchID = '1' userID = '1' searchTerm = "burger"> </SearchTerm>
+</dataset>
+

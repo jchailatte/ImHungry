@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "12746 W Jefferson Blvd #1120, Playa Vista, CA 90094, USA",
+      "formatted_phone_number" : "(310) 410-2337",
+      "name" : "Hopdoddy Burger Bar",
+      "place_id" : "ChIJMyEUlpiwwoARGEfHG2xwJ40",
+      "price_level" : 2,
+      "rating" : 4.4,
+      "website" : "http://www.hopdoddy.com/"
+   },
+   "status" : "OK"
+}

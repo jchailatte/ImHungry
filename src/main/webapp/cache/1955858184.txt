@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "9149 S Sepulveda Blvd, Los Angeles, CA 90045, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "25.8 km",
+                  "value" : 25836
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1824
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

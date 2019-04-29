@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "702 Americana Way, Glendale, CA 91210, USA",
+      "formatted_phone_number" : "(818) 244-5900",
+      "name" : "Katsuya",
+      "place_id" : "ChIJPffoAv_AwoAR3NX3AofqBCs",
+      "price_level" : 3,
+      "rating" : 3.6,
+      "website" : "https://www.sbe.com/restaurants/locations/katsuya-glendale/?utm_source=Google%20My%20Business&utm_medium=Website%20Button&utm_campaign=Glendale"
+   },
+   "status" : "OK"
+}

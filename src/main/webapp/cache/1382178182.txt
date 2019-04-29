@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "17071 Beach Blvd, Huntington Beach, CA 92647, USA",
+      "formatted_phone_number" : "(714) 594-5730",
+      "name" : "Slater's 50/50",
+      "place_id" : "ChIJKXnQHDEh3YAR10nVjek6gfg",
+      "price_level" : 2,
+      "rating" : 4.2,
+      "website" : "https://slaters5050.com/"
+   },
+   "status" : "OK"
+}

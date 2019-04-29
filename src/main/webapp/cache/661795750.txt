@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "6300 Hollywood Blvd, Los Angeles, CA 90028, USA",
+      "formatted_phone_number" : "(323) 515-8782",
+      "name" : "Katsuya Hollywood",
+      "place_id" : "ChIJT9BlEjm_woARLHtpZgk_oWE",
+      "price_level" : 3,
+      "rating" : 4.3
+   },
+   "status" : "OK"
+}

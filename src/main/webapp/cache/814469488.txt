@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "13333 South St, Cerritos, CA 90703, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "42.1 km",
+                  "value" : 42137
+               },
+               "duration" : {
+                  "text" : "36 mins",
+                  "value" : 2138
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

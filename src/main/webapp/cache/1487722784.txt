@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "761 N 1st St, Burbank, CA 91502, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "25.3 km",
+                  "value" : 25296
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1760
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

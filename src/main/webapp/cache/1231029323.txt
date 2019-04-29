@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "1250 E Imperial Hwy, Brea, CA 92821, USA",
+      "formatted_phone_number" : "(714) 990-0671",
+      "name" : "Coco's Bakery Restaurant",
+      "place_id" : "ChIJxY3VcgfV3IARpiGn-9fkD40",
+      "price_level" : 2,
+      "rating" : 4.1,
+      "website" : "http://www.cocosbakery.com/"
+   },
+   "status" : "OK"
+}

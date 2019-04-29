@@ -1,0 +1,24 @@
+Jonathan Chai
+I finished the Restaurant and Recipe pages.
+There was no obstacles.
+I will look into Fabric for components to implement further features.
+
+Justin Lam
+I wrote test cases for maintaining recipe data past a single session.
+The Recipes API is down so I can’t test directly inserting from the API to the database.
+I will complete the database testing code with Samuel, and finish the Sprint 1 Report.
+
+Samuel Rosas-Meza
+Continued working on database testing with Justin and documentation of best practices independently.
+No obstacles at this time.
+I will complete database testing with Justin, commit test code and finish documentation.
+
+Harrison Weinerman
+Sam and I updated the API keys and confirmed existing tests run properly.
+There are no obstacles.
+I will finish documentation with the rest of the team.
+
+Peter Yang
+I finished modernizing the list management page with each of the control items working.
+The previous issues with Cucumber IDs persists since using `mergeStyleSets` uses non deterministic id generation so when more code gets written the IDs will change. Additionally, the recipe endpoint appears to have gone down.
+I will ensure the project is properly integrated with the other new features my teammates worked on before the Monday demonstration.

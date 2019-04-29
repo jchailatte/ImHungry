@@ -1,0 +1,34 @@
+Scrum 2
+Date: Friday, 4/19/19
+Time: 3:00 pm
+Location: JFF 420
+Participants: Harrison Weinerman, Samuel Rosas-Meza, Jonathan Chai, Peter Yang, Justin Lam
+Stand Up
+
+Harrison Weinerman
+I refactored Restaurant class and made a RestaurantFactory in process.
+There are no obstacles.
+I will work on making a mock for Restaurant data to use API credits less.
+
+Samuel Rosas-Meza
+I worked on updating existing GroceryList tests to conform with Justin’s updated methods.
+There are no obstacles.
+I will work on creating additional tests for data persistence and maintaining documentation.
+
+Jonathan Chai
+I completed pagination for the recipes as well as fixed the UI requirements stated during the elicitation.
+There are no obstacles.
+I will apply pagination to the restaurants side and try and make the search history on click.
+
+Peter Yang
+Though I initially planned to work speed up the recipe search results, it was not high priority so instead I worked with Harrison to refactor the Restaurant class since we intend to utilize more of the functionality later so it is important the code is reusable.
+The CI build temporarily broke due to an API configuration issue but it was shortly resolved and should not come back.
+Since Justin has completed the backend functionality for reordering I will now be able to implement the frontend for reordering list items.
+
+Justin Lam
+I updated all of the GroceryList methods on the back end that implements removing single ingredient items from the user’s grocery list. In addition, I implemented/tested the rearranging lists functionality with 100% code coverage.
+It’s been difficult to implement the merging of grocery list items in the Grocery list.
+I will refactor the ListManagement class and continue looking for a way to implement the merging of similar individual grocery list items.
+
+
+

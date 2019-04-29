@@ -1,0 +1,31 @@
+Scrum 1
+Date: Wednesday, 4/17/19
+Time: 11:45 am
+Location: SGM 101
+Participants: Harrison Weinerman, Samuel Rosas-Meza, Jonathan Chai, Peter Yang, Justin Lam
+Stand Up
+
+Harrison Weinerman
+I worked on the documentation for our Sprint 2 submission.
+There are no obstacles.
+I will work on refactoring the Restaurant class.
+
+Samuel Rosas-Meza
+I worked on Review and Retrospective, Planning, and Report documentation.
+There are no obstacles.
+I will work with Justin on updating list management and grocery list methods.
+
+Jonathan Chai
+I worked on the Sprint 2 documentation.
+There are no obstacles.
+I will work on updating the UI to match with the updated requirements.
+
+Peter Yang
+Yesterday, I looked at fixing the merge issues that resulted in the tests to fail during the demo.
+Cucumber tests were not working for some reason so they were disabled for the time being.
+I will refactor the search capability so it becomes much faster (run tasks in parallel instead of waiting linearly).
+
+Justin Lam
+I wrote the Sprint Review & Retrospective document and the Sprint planning document.
+There are currently no obstacles.
+I will refactor the ListManagement class, update the GroceryList functionality to be able to remove individual items, and begin to write code for reordering lists.

@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "8935 Santa Monica Blvd, West Hollywood, CA 90069, USA",
+      "formatted_phone_number" : "(310) 777-0310",
+      "name" : "Guisados",
+      "place_id" : "ChIJTe35kaW-woARPGxvfSXWZDE",
+      "price_level" : 1,
+      "rating" : 4.5,
+      "website" : "http://www.guisados.co/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "115 Main St, Seal Beach, CA 90740, USA",
+      "formatted_phone_number" : "(562) 594-0600",
+      "name" : "Taco Surf",
+      "place_id" : "ChIJVYdxd_sv3YARC_ja74DBeHU",
+      "rating" : 4.5,
+      "website" : "http://www.tacosurf.com/"
+   },
+   "status" : "OK"
+}

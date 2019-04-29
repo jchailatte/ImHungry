@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "310 N. Harvey Dr., Glendale, CA 91206, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "20.0 km",
+                  "value" : 20009
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1553
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

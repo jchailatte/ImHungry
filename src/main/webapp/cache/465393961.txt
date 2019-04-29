@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "928 W Huntington Dr, Monrovia, CA 91016, USA",
+      "formatted_phone_number" : "(626) 301-9225",
+      "name" : "Red Lobster",
+      "place_id" : "ChIJj2n2XN_bwoARC95S7VLp9sw",
+      "price_level" : 2,
+      "rating" : 4.2,
+      "website" : "https://www.redlobster.com/locations/list/ca/monrovia/928-west-huntington-drive"
+   },
+   "status" : "OK"
+}

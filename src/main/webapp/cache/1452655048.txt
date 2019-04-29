@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "3662 W 3rd St, Los Angeles, CA 90020, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.5 km",
+                  "value" : 6481
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1309
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

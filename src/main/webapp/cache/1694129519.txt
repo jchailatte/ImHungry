@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1811, 915 Wilshire Blvd, Santa Monica, CA 90401, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "22.7 km",
+                  "value" : 22748
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1657
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

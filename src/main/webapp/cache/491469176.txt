@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "913 S Broadway, Los Angeles, CA 90015, USA",
+      "formatted_phone_number" : "(213) 627-2399",
+      "name" : "Tacos Mexico",
+      "place_id" : "ChIJa0ByTsrHwoARNAjZlAdlHTw",
+      "price_level" : 1,
+      "rating" : 4.2,
+      "website" : "http://www.tacosmexico.com/"
+   },
+   "status" : "OK"
+}

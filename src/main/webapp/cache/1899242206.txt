@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "1261 Sunset Blvd, Los Angeles, CA 90026, USA",
+      "formatted_phone_number" : "(213) 250-7600",
+      "name" : "Guisados",
+      "place_id" : "ChIJ9xaRZ_7GwoAR2654oYfw5cg",
+      "price_level" : 1,
+      "rating" : 4.6,
+      "website" : "http://www.guisados.co/"
+   },
+   "status" : "OK"
+}

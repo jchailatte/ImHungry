@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "14952 Valley Blvd, La Puente, CA 91746, USA",
+      "formatted_phone_number" : "(626) 961-2523",
+      "name" : "Bob's Burgers",
+      "place_id" : "ChIJG0UfDGHWwoARBdt3TXkIeJQ",
+      "price_level" : 1,
+      "rating" : 4.3,
+      "website" : "http://bobsburgers2.eat24hour.com/"
+   },
+   "status" : "OK"
+}

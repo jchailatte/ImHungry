@@ -1,0 +1,31 @@
+Scrum 3
+Date: Monday, 4/8/19
+Time: 11:00 am
+Location: SGM 101
+Participants: Harrison Weinerman, Samuel Rosas-Meza, Jonathan Chai, Peter Yang, Justin Lam
+
+Stand Up
+Harrison Weinerman
+I worked with Sam and finished the change to the cucumber test after much confusion from the Travis logs.
+I spent all my time on the above and didn’t accomplish everything I set out to after last standup meeting.
+I will move to improve radius reliability and add the test cases to validate this.
+
+Samuel Rosas-Meza
+I worked with Harrison to change/update cucumber tests to work with Travis. Did not get to radius handling and test cases completely. I continued on documentation of sessions and task decompositions.
+There are no obstacles.
+I will work with Justin to create additional database test code for users, lists, and search queries.
+
+Jonathan Chai
+I worked with Peter to finish modifying the UI based on feedback received and help generate the related cucumber tests.
+We ran out of Google Cloud Platform credit which made most of our backend functionalities relating to the restaurants stop working.
+I will implement the “Recent Searches” requirement as well as its related tests.
+
+Peter Yang
+I added additional cucumber tests for the radius to account for edge cases. Additionally, I refactored the cucumber tests to split into smaller manageable pieces. After that, I was able to clean up the interface using the stakeholder's feedback by taking advantage of more color and spacing.
+The team ran out of Google API credits so the restaurant feature stopped working. This made it difficult to test anything related to the restaurant component since it didn't work. This was later resolved by Harrison who generated an additional key.
+I will work on integrating a sign up and login feature so users are able to maintain data persistence that is secure and confidential. This will include both the backend and frontend integration for basic user accounts.
+
+Justin Lam
+I wrote functions for search results being saved in the database and updated all ListManagement methods and tests to include the input of a user functionality.
+I am unable to test if the new test methods are functional until the appropriate servlet parameters are updated as I can’t call necessary methods in JUnit tests until then.
+I will write new test cases for the previous search results being saved and work on an entry for the GroceryList table as a boolean array for the different ingredients needed for a recipe.

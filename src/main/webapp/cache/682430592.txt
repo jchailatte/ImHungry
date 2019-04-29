@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "4444 Van Nuys Blvd, Sherman Oaks, CA 91403, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "34.1 km",
+                  "value" : 34104
+               },
+               "duration" : {
+                  "text" : "32 mins",
+                  "value" : 1929
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

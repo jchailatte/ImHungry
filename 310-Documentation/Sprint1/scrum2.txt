@@ -1,0 +1,24 @@
+Jonathan Chai
+I looked through my previous team’s code base to see what was reusable.
+There are no obstacles currently.
+I plan to pair program with Peter to work on the UI elements of the search and results page as well as set-up the new front-end.
+
+Justin Lam
+I received clarifications on our teams’ questions about the project.
+I was unable to get DBUnit testing to work during Project 1 which continued into Project 2.
+I plan to start writing database JUnit (DBUnit) tests for the SQL database that is holds I’m Hungry’s persistent data with Sam.
+
+Samuel Rosas-Meza
+Got answers regarding product features, documentation for Sprint 1
+DbUnit testing was a difficulty for Project 1 could pose
+Pair program with Justin Lam on database tests. Work with Harrison on Google API to take in radius.
+
+Harrison Weinerman
+I setup the new GitHub project and team and restructured Asana to add the tickets for this milestone.
+I had no blockers.
+I will work on implementing changes to the Google API to take into account distance/radius with Sam.
+
+Peter Yang
+I looked into possible UI libraries to consider to help make UI look modern.
+I have no issues blocking me.
+I will pair program with Jonathan to work on the search and results page.

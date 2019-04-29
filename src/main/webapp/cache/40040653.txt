@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "928 W Huntington Dr, Monrovia, CA 91016, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "39.3 km",
+                  "value" : 39270
+               },
+               "duration" : {
+                  "text" : "37 mins",
+                  "value" : 2195
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

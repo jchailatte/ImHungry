@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "3005 Old Ranch Pkwy, Seal Beach, CA 90740, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "44.4 km",
+                  "value" : 44389
+               },
+               "duration" : {
+                  "text" : "36 mins",
+                  "value" : 2174
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "100 Universal City Plaza, V-205, Universal City, CA 91608, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "20.3 km",
+                  "value" : 20319
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1570
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

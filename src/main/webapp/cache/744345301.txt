@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "5316 1, 2, E 2nd St, Long Beach, CA 90803, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "41.5 km",
+                  "value" : 41514
+               },
+               "duration" : {
+                  "text" : "44 mins",
+                  "value" : 2627
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

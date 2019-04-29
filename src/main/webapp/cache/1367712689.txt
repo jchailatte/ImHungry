@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "5257 Hollywood Blvd, Los Angeles, CA 90027, USA",
+      "formatted_phone_number" : "(323) 466-0153",
+      "name" : "Ruen Pair",
+      "place_id" : "ChIJB_8Iy1C_woARO-B5t-OFmpM",
+      "price_level" : 2,
+      "rating" : 4.4,
+      "website" : "http://ruenpairthaila.com/index.php/contact-us"
+   },
+   "status" : "OK"
+}

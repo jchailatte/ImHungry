@@ -1,0 +1,61 @@
+{
+  "name": "imhungry",
+  "version": "1.0.0",
+  "description": "A system that provides eating recommendations based on a user's food interest",
+  "main": "index.js",
+  "scripts": {
+    "build": "node_modules/.bin/webpack --config webpack.config.js --progress"
+  },
+  "contributors": [
+    {
+      "name": "Justin Lam",
+      "email": "lam704@usc.edu",
+      "url": "https://github.com/lamjustin"
+    },
+    {
+      "name": "Jonathan Chai",
+      "email": "chaijw@usc.edu",
+      "url": "https://github.com/jchailatte"
+    },
+    {
+      "name": "Samuel Rosas-Meza",
+      "email": "rosasmez@usc.edu",
+      "url": "https://github.com/rosamez"
+    },
+    {
+      "name": "Harrison Weinerman",
+      "email": "hweinerm@usc.edu",
+      "url": "https://github.com/harrisonweinerman"
+    },
+    {
+      "name": "Peter Yang",
+      "email": "yangpete@usc.edu",
+      "url": "https://github.com/peteryangio"
+    }
+  ],
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahulrmohan/imhungry"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/plugin-proposal-decorators": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "prop-types": "^15.7.2",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.0",
+    "office-ui-fabric-react": "^6.160.0",
+    "react": "^16.8.5",
+    "react-beautiful-dnd": "^11.0.0",
+    "react-dom": "^16.8.5",
+    "react-router-dom": "^5.0.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "990 Town Center Dr, La Cañada Flintridge, CA 91011, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "27.8 km",
+                  "value" : 27816
+               },
+               "duration" : {
+                  "text" : "31 mins",
+                  "value" : 1830
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

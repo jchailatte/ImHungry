@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "6212 W Manchester Ave, Los Angeles, CA 90045, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "26.3 km",
+                  "value" : 26340
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1798
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

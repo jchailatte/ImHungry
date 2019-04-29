@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "9070 Whittier Blvd, Pico Rivera, CA 90660, USA",
+      "formatted_phone_number" : "(800) 786-1000",
+      "name" : "In-N-Out Burger",
+      "place_id" : "ChIJIQiWpcHRwoAR4RZjXxUzkP0",
+      "price_level" : 1,
+      "rating" : 4.6,
+      "website" : "http://locations.in-n-out.com/49"
+   },
+   "status" : "OK"
+}

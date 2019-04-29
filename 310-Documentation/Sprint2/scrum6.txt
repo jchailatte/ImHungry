@@ -1,0 +1,31 @@
+Scrum 6
+Date: Sunday, 4/14/19
+Time: 9:00am
+Location: Google Meet
+Participants: Harrison Weinerman, Samuel Rosas-Meza, Jonathan Chai, Peter Yang, Justin Lam
+
+Stand Up
+Harrison Weinerman
+I finished the pagination of the restaurants. 
+There are no obstacles
+I will write tests for the implementation of the grocery list.
+
+Samuel Rosas-Meza
+I wrote the GroceryListTest class to run Grocery List methods that Justin created. GroceryListTest tested for insert, remove, and update methods to grocery lists and ingredient checklists. 
+There are no obstacles. 
+I will finish documentation and JUnit testing for reordering of lists. 
+
+Jonathan Chai
+I did not do anything, I was attending HackSC and was not able to work on anything since the last scrum. 
+Working during the hackathon on this project was difficult due to lack of time or rest.
+I will prepare tests for the pagination and add to grocery list button and code the already developed psuedo-code.
+
+Peter Yang
+I was unable to work on any task while at HackSC.
+The hackathon environment over the weekend provided little time for rest or additional work.
+I will do a basic implementation of the grocery list and list management rearrangement for demonstration for the next elicitation.
+
+Justin Lam
+I created a GroceryList class, wrote methods to properly insert,update, and retrieve this information from the database with Samuel. All test cases for the GroceryList class are written and passed. I also fixed previous issues with duplicate entries in the database. 
+There are no obstacles.
+I will write/test code that accomplishes the list reordering and finish up documentation for the Sprint 2 Report.

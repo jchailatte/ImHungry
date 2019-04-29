@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1600 N Alvarado St, Los Angeles, CA 90026, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.4 km",
+                  "value" : 9422
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1214
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

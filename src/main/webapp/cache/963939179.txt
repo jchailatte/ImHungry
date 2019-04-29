@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "9245 W Venice Blvd, Los Angeles, CA 90034, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "12.9 km",
+                  "value" : 12921
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1246
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

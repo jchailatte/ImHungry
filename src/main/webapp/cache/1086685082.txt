@@ -1,0 +1,12 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "5440 S Central Ave, Los Angeles, CA 90011, USA",
+      "formatted_phone_number" : "(323) 234-7000",
+      "name" : "China Express",
+      "place_id" : "ChIJLS7Z11nIwoAR-99fofYEjTU",
+      "price_level" : 2,
+      "rating" : 4.7
+   },
+   "status" : "OK"
+}

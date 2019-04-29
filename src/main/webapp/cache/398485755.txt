@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "465 La Cienega Blvd, Los Angeles, CA 90048, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "14.1 km",
+                  "value" : 14148
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1507
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

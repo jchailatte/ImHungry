@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "60 N Raymond Ave, Pasadena, CA 91103, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "22.4 km",
+                  "value" : 22422
+               },
+               "duration" : {
+                  "text" : "31 mins",
+                  "value" : 1830
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

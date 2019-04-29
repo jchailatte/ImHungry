@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "550 Deep Valley Dr #151, Rolling Hills Estates, CA 90274, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "37.6 km",
+                  "value" : 37647
+               },
+               "duration" : {
+                  "text" : "42 mins",
+                  "value" : 2500
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

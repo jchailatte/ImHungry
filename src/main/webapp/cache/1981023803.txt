@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1436 W Jefferson Blvd, Los Angeles, CA 90007, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1.9 km",
+                  "value" : 1901
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 427
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

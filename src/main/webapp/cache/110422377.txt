@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "17504 S Avalon Blvd, Carson, CA 90746, USA",
+      "formatted_phone_number" : "(310) 515-6479",
+      "name" : "Del Taco",
+      "place_id" : "ChIJp__pwMTKwoARAusZ2rg4NOc",
+      "price_level" : 1,
+      "rating" : 4,
+      "website" : "http://www.deltaco.com/"
+   },
+   "status" : "OK"
+}

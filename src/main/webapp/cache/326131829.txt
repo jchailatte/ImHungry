@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "12102 Long Beach Blvd, Lynwood, CA 90262, USA" ],
+   "origin_addresses" : [ "Bovard Administration Building, Los Angeles, CA 90089, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "20.0 km",
+                  "value" : 19963
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1417
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

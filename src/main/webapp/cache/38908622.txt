@@ -1,0 +1,13 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_address" : "3640 Cahuenga Blvd, Los Angeles, CA 90068, USA",
+      "formatted_phone_number" : "(800) 786-1000",
+      "name" : "In-N-Out Burger",
+      "place_id" : "ChIJA3-xX2xow4ARnvqTG2afc78",
+      "price_level" : 1,
+      "rating" : 4.5,
+      "website" : "http://locations.in-n-out.com/111"
+   },
+   "status" : "OK"
+}
